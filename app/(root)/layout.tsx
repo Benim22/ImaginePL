@@ -1,4 +1,4 @@
-import Sidebar from '../../../../Desktop/imaginepl/components/shared/Sidebar'
+import Sidebar from '../../components/shared/Sidebar'
 import MobileNav from '../../components/shared/MobileNav'
 
 
